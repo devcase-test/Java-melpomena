@@ -1,1 +1,1 @@
-# Java-melpomena
+Dummy template
